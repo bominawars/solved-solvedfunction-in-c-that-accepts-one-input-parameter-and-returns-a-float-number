@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedfunction-in-c-that-accepts-one-input-parameter-and-returns-a-float-number
+<br>
+Create your own function in C that accepts one input parameter and returns a float number. You decide the theme.You should provide both your C code and an example call to the C code function. Be sure to provide an overview of what your function is doing.Provide a screen capture showing the results of testing your code in an online compiler. Be sure to test your code with several test cases and show your test case table.
